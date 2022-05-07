@@ -3,3 +3,4 @@ pandas
 geopandas
 streamlit
 streamlit-folium
+matplotlib
